@@ -53,8 +53,8 @@
     <div class="question">
         KISS PLEASE? <p>&#129402;&#128073;&#128072;</p>
     </div>
-    <button class="button yes-button" onclick="showResponse('YES I WILL MOMMY!')">Yes</button>
-    <button class="button no-button" onclick="showResponse('WRONG ANSWER')">No</button>
+    <button class="button yes-button" onclick="showResponse('Good boy~')">Yes</button>
+    <button class="button no-button" onclick="showResponse('WRONG ANSWER :<')">No</button>
     
     <div id="response" class="response"></div>
 </div>
